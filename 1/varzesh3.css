@@ -1,0 +1,114 @@
+*{
+    direction: rtl;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+* a{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifs;
+}
+@media screen and (max-width: 600px){
+    .bio .hazf, .hazf1{
+        display: none;
+
+    }
+
+}
+@media screen and (max-width: 800px){
+    .bio{
+        width: auto;
+    }
+}
+@media screen and (min-width: 800px){
+    .bio{
+        width: 800px;
+    }
+}
+
+.date{
+    margin: 0;
+    padding: 0;
+
+}
+
+header{
+    background-color: rgb(90, 128, 153);
+    height: 25px;
+    font-size: 11px;
+    position: relative;
+
+}
+menu{
+    display: flex
+    list-style: none;
+    padding: 0;
+}
+ul{
+    color: white;
+}
+li{
+    float: right;
+    list-style-type: none;
+    margin: 5px;
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
+.ul{
+    float: left;
+}
+.div{
+    height: 40px;
+    background-color: white;
+}
+div ul li a{
+    color: black;
+    margin: 5px;
+    font-size: 14px;
+    margin: 0px;
+    line-height: 30px; 
+}
+.bio li a:hover{
+    color: rgb(121, 204, 207);
+}
+.redtext{
+    color: red;;
+}
+div, .reza{
+    background-color: rgb(61, 53, 59) ;
+   height: 100px;
+}
+.date label{
+    display: block;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    color: white;
+}
+.bazikon{
+    border-radius: 50%;
+}
+.textbio{
+    background: white;
+    border-radius: 50%;
+}
+.biomenu{
+    display: flex;
+    align-items: flex-end;
+}
+.span1{
+padding: 10px;
+}
+.span2{
+    padding: 10px;\
+}
+.span3{
+    padding: 10px;
+}
+.spangoogle a{
+    color: white;
+}

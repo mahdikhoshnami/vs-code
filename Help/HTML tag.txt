@@ -1,0 +1,144 @@
+HTML
+
+تگ ها
+
+<h> (1/6) تیتر						
+
+value مقدار
+
+<P>  پاراگراف
+
+Align  هم راستا کردن جهت کار
+
+valign  چیدماون عمودی
+
+dir  جهت یا سمت
+
+justify  مرتب کردن
+
+<B> or <strong>    بلد کردن
+
+<i> or <em>   ایتالیک کردن 
+
+ol  لیست بندی	
+
+li  شماره گذاری
+
+hr (empty)   
+
+dt  ایتم لیست
+
+dd  توضیح دادن 
+
+br (empty)   فاصله انداختن بین جمله
+
+sup  توان اعداد
+
+sub  مخالف توان اعداد
+
+<a href  لینک کردن
+
+<a href=http://  لینک کردن قطعی
+
+first <a href=#... second <a name=...  لینک کردن داخل یک صفحه (برعکس هم میشه)
+
+<a href=mailto: info@Imail  رفتن به ایمیل
+
+border  تغییر ابعاد
+
+hspace  فاصله افقی خالی بین عکس ها
+
+vspace  فاصله عمودی بین عکس ها
+
+h(1/6)  تیتر
+
+table  جدول
+
+tr  ردیف
+
+td  ستون
+
+form  فرم
+
+textarea  تکست هلدر
+
+multiple  انتخاب چند ایتم باهم
+
+checked: انتخاب شده پیشفرض
+
+disabled: نمیشه اونجارو پر کرد
+
+placeholder: نوشته شده پیشفرض
+
+required: حتما باید پر شود
+
+fieldest: یه قاب دور کل تیبل یا فرم
+
+lejend: روی قاب نوشته میشه
+
+!..|--  نخوندن کامنت
+
+meta tag description: توضیح ظاهر سایت  از گوگل
+
+meta tag  author: اسم نویسنده سایت
+
+link rel icon: ایکن یا عکس سایت
+
+margin: حد یا حاشیه
+&:  کارکترای خاص
+
+cellpading: فاصله بین قاب
+
+cellspacing: فاصله بین قاب
+
+section: بخش های مرتب به هم داخل یک سکشن قرار میگیره
+
+article: ...کامنت و مقاله و
+
+figur: ...برای عکس مقاله یا
+
+figcaption: کپشن فیگور
+
+mark: متفاوت کردن اون بخش از جمله
+
+progress:
+
+meter: 
+
+time: تاریخ و زمان
+
+details:
+
+summary: برای دیتایلز استفاده میشه
+
+autocomplete: 
+
+deta list:
+
+list name: پیشنهاد ما به دیتا لیست
+
+auto focus خود سایت روش فکوسه همون اول
+
+(video) controls & autoplay $ loop & preload & poster 
+
+(audio) 
+
+source:  منبع(برای پیدا کردن چیزی تو کامپیوتر)
+
+svg: 
+
+circle: cx: مرکز cy: نقطه مرکز r: شعاع stroke: رنگ دیواره fill: رنگ داخل
+
+rect: width height fill stroke rx ry 
+
+select: برای انتخاب کشویی
+
+
+
+
+
+
+
+
+
+

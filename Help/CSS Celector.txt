@@ -1,0 +1,160 @@
+css
+
+selector{property:value}
+
+type selector: tag selector - class - id - compound - advanced  
+
+class selector= .   میتونه چند بار تکرار بشه
+
+id selector= #   فقط یکبار استفاده میشه
+
++:  
+  
+[]:  خصوصیت دادن به تگ ها  
+
+>:   برای انتخاب کردن اولین زیر مجموعه   
+
+():
+
+,:  چنتا تگ باهم کنترل کردن
+
+empty: اعمال شدن روی تگ های خالی
+
+:: :  برای وبکیت ها
+
+~: اولین کلمه با ... شروع میشه
+ 
+^:  کلمه هایی که با ... شروع میشن 
+
+$:  کلمه هایی که با ... شروع نمیشن
+
+
+
+
+backgraound-repeat:
+
+backgraound-attachment: برای فیکس کردن بکگراند
+
+backgraound-position:
+
+sans-serif: گوشه دار شدن کلمه ها
+
+word-spacing: فاصله بین هر کلمه
+
+letter-spacing: فاصله بین هر حرف
+
+line-height: فاصله بین هر خط 
+
+text-decoration: اندرلاین زیر جمله
+
+text-transform:  بزرگ و کوچیک کردن حروف
+
+font-variant:  بزرگ و کوچیک کردن حروف
+
+a:hover:  خصوصیتی که وقتی موس میاد رو لینک فعال میشه 
+
+a:active:   خصوصیتی که وقتی موس کلیک میشه رو لینک فعال میشه
+
+a:visited:  
+
+/* - /* :  نخوندن اون قسمت 
+
+border-radius:  گرفتن گوشه تصویر
+
+margin: top-right-bottom-left
+
+float:  تبدیل کردن بلاک لول به تکست لول
+
+clear:   خنسی کردن فلوت  
+
+display: block:  تبدیل کردن تکست لول به بلاک لول
+
+visibility:  مخفی کردن اون قسمت
+
+position:  
+
+z-index:  پشت رو قرار دادن باکس ها
+
+position: relative:  برای قرار دادن یه باکس داخل باکس دیگ
+
+background-origin:  برای وسط انداختن عکس داخل باکس
+
+background-clip:  برای وسط انداختن متن داخل باکس
+
+box-shadow: منفی بکنی میره چپ و بالا مثبت بکنی راست و پایین
+
+text-shadow:  
+
+-webkit-box & -moz-box & -o-box -ms-box: برای اطمینان نمایش تو تمام براز ها 
+
+transition: تایمر گذاشتن 
+
+transform: برای تغییر شکل یا جهت دادن 
+
+transform: translate-rotate-scale-skew:  حالت های ترنسفورم
+
+text-overflow: 
+
+word-wrap:
+
+background:linier-gradient:  برای درست کردن خط رنگی
+
+background:radial-gradient:  برای درست کردن دایره رنگی
+
+after: 
+
+before:
+
+first-letter & line & child & of-type:
+
+last-letter & line & child & of-type:
+
+nth-child: فقط روی اون اعمال میشه 
+
+nth-last-child: فقط روی اون اعمال میشه (ار اخر میشمره)
+
+nth-child(-n+...): چنتا ایتم باهم تغییر میدی
+
+nth-letter & line & child & of-type: ان تی اچ میتونه برای همه اینا استفاده بشه
+
+in-range:
+
+valid , invalid:
+
+opacity:  برای کمرنگ پر رنگ کردن کار
+
+:read_only:
+
+:read-write:
+
+::selaction:  
+
+order: جا به جا کردن اشکال یا کلاس ها
+
+justify-content: برای تغییر چیدمان
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
